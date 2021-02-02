@@ -34,7 +34,7 @@ namespace DataAccess.Concrete.InMemory
 
         public void Delete(Product product)
         {
-           //Product productToDelete = null;
+           Product productToDelete = null;
               // foreach (var p in products)
 
             {
